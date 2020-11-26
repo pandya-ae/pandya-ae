@@ -2,7 +2,7 @@
 
 <br />
 
-🤓 CS undergrad, coder, gamer, TV binger, film buff, and an all-around geek!
+### 🤓 CS undergrad, coder, gamer, TV binger, film buff, and an all-around geek!
 
 - 👨‍🎓 I'm currently a Computer Science sophomore
 - 👨‍💻 Now learning Data Science and Machine Learning
@@ -20,15 +20,11 @@
 
 ### 📊 My GitHub stats!
 
-<a>
-  <img align="left" alt="Pandya's GitHub Stats" src="https://github-readme-stats.pandya-ae.vercel.app/api?username=pandya-ae&show_icons=true&include_all_commits=true"/>
-</a>
+<img align="left" alt="Pandya's GitHub Stats" src="https://github-readme-stats.pandya-ae.vercel.app/api?username=pandya-ae&show_icons=true&include_all_commits=true" />
 
 <br />
 
-<a>
-  <img align="left" alt="Pandya's Top Languages" src="https://github-readme-stats.pandya-ae.vercel.app/api/top-langs/?username=pandya-ae&layout=compact"/>
-</a>
+<img align="left" alt="Pandya's Top Languages" src="https://github-readme-stats.pandya-ae.vercel.app/api/top-langs/?username=pandya-ae&layout=compact" />
 
 [linkedin]: https://linkedin.com/in/pandyaae
 [twitter]: https://twitter.com/pandya_ae
