@@ -21,6 +21,7 @@
 <img align="left" alt="Pandya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pandya-ae&show_icons=true&include_all_commits=true" />
 
 <br />
+<br />
 
 <img align="left" alt="Pandya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandya-ae&layout=compact" />
 
