@@ -9,8 +9,6 @@
 - 🔨 Working to contribute more to open-source projects
 - 🤝 Let's follow each other!
 
-<br />
-
 ### ✌ Let's connect with me!
 
 [<img align="left" alt="Pandya Athallah Erlambang | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -20,7 +18,7 @@
 
 <br />
 
-### ⚡ My GitHub stats!
+### 📊 My GitHub stats!
 
 <a>
   <img align="left" alt="Pandya's GitHub Stats" src="https://github-readme-stats.pandya-ae.vercel.app/api?username=pandya-ae&show_icons=true&include_all_commits=true"/>
