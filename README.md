@@ -18,8 +18,11 @@
 
 ### 📊 My GitHub stats!
 
-<img alt="Pandya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pandya-ae&show_icons=true&include_all_commits=true&hide_border=true" />
-<img alt="Pandya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandya-ae&layout=compact&hide_border=true" />
+<img align="left" alt="Pandya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pandya-ae&show_icons=true&include_all_commits=true&hide_border=true" />
+
+<br />
+
+<img align="left" alt="Pandya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandya-ae&layout=compact&hide_border=true" />
 
 [linkedin]: https://linkedin.com/in/pandyaae
 [twitter]: https://twitter.com/pandya_ae
