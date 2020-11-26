@@ -14,17 +14,6 @@
 [<img align="left" alt="Pandya Athallah Erlambang | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Pandya Athallah Erlambang | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
 
-<br />
-
-### 📊 My GitHub stats!
-
-<img align="left" alt="Pandya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pandya-ae&show_icons=true&include_all_commits=true&hide_border=true" />
-
-<br />
-
-<img align="left" alt="Pandya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandya-ae&layout=compact&hide_border=true" />
-
-[linkedin]: https://linkedin.com/in/pandyaae
 [twitter]: https://twitter.com/pandya_ae
 [instagram]: https://instagram.com/pandya.ae
 [steam]: https://steamcommunity.com/id/panthaer
