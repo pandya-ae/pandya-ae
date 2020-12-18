@@ -9,7 +9,7 @@
 
 ### ✌ Let's connect with me!
 
-[<img align="left" alt="Pandya Athallah Erlambang | LinkedIn" width="22px" src="https://lh3.googleusercontent.com/proxy/Sa9Epjp2MmeerNtHpYVJ2LXDQXGJy5hRfZnqd3m26asGsI3bvRYDesdv6UeX90FtRxtHXKr9JBGpar8AItOQNPhXv3LTL30dP7MAbbB3JNu9I1x4trHhhqnXHQHIZVW7-zw" />][linkedin]
+[<img align="left" alt="Pandya Athallah Erlambang | LinkedIn" width="22px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />][linkedin]
 [<img align="left" alt="Pandya Athallah Erlambang | Twitter" width="22px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-2-1.png" />][twitter]
 [<img align="left" alt="Pandya Athallah Erlambang | Instagram" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />][instagram]
 [<img align="left" alt="Pandya Athallah Erlambang | Steam" width="22px" src="https://cdn.freebiesupply.com/images/large/2x/steam-logo-transparent.png" />][steam]
