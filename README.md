@@ -1,11 +1,11 @@
-### 👋 Hello world, I'm Pandya! 
+### 👋  Hello world, I'm Pandya! 
 
-### 🤓 CS undergrad, coder, gamer, and an all-around geek!
+### 🤓  CS undergrad, coder, gamer, and an all-around geek!
 
-- 👨‍🎓 I'm currently a Computer Science sophomore
-- 👨‍💻 Now learning Data Science and Machine Learning
-- 🔨 Working to contribute more to open-source projects
-- 🤝 Let's follow each other!
+- 👨‍🎓  I'm currently a Computer Science sophomore
+- 👨‍💻  Now learning Data Science and Machine Learning
+- 🔨  Working to contribute more to open-source projects
+- 🤝  Let's follow each other!
 
 ### ✌ Let's connect with me!
 
