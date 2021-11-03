@@ -2,8 +2,8 @@
 
 ### 🤓  CS undergrad, coder, gamer, and an all-around geek!
 
-- 👨‍🎓  I'm currently a Computer Science junior
-- 👨‍💻  Now learning Data Science and Machine Learning
+- 👨‍🎓  Currently a Computer Science junior
+- 👨‍💻  Now learning Data Science, Machine Learning, and Deep Learning
 - 🔨  Working to contribute more to open-source projects
 - 🤝  Let's follow each other!
 
